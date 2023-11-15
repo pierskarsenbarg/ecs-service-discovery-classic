@@ -11,7 +11,7 @@ You'll need to have the following installed:
 
 ## Setup
 
-1. Clone this repo `git clone git@`
+1. Clone this repo `git clone git@github.com:pierskarsenbarg/ecs-service-discovery-classic.git`
 1. Go to the folder: `cd ecs-service-discovery-classic`
 1. Set the region you want to deploy to: `pulumi config set aws:region {region}`
 1. Run `pulumi up`
